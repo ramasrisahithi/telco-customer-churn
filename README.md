@@ -1,3 +1,13 @@
+# Customer Churn Analysis (Telco Dataset)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramasrisahithi/telco-customer-churn/blob/main/customer_Chrun_Analysis.ipynb)
+
+This project analyzes customer churn using the Telco Customer dataset. It includes data cleaning, EDA, feature engineering, model training, and deployment-ready prediction pipeline using saved encoders and a trained model.
+
+## 📁 Project Structure
+
+
+
 # telco-customer-churn
 Customer Churn Analysis – Machine Learning Project
 **Overview**
